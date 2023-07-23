@@ -16,3 +16,4 @@ Alura midi é uma espécie de drum-pad virtual, com efeitos sonoros para música
 
 ## Comentarios 
 O curso da Alura é apresentado por Vanessa Me Tonini, que é a instrutora das aulas.
+Veja o resultado [aqui](https://drumpad-three.vercel.app)
